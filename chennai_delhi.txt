@@ -1,0 +1,10 @@
+9       CHENNAI  DELHI			Departure Stn (Time)		Arrival Stn (Time)	TripTime 2183
+12611	H_Nizamuddin Garib_Rath		Chennai Central (06:10)		H Nizamuddin (10:20)	28h 10m	
+12433	Rajdhani Express		Chennai Central (06:10)		H Nizamuddin (10:20)	28h 10m	
+12621	Tamil_Nadu Express		Chennai Central (22:00)		H Nizamuddin (06:37)	32h 37m
+12615	Grand_Trunk Express		Chennai Central (19:15)		H Nizamuddin (05:57)	34h 42m   
+16031	Andaman Express			Chennai Central (05:15)		Shakurbasti Jn (00:43)	43h 28m
+12269	Duronto Express			Chennai Central (06:40)		H Nizamuddin (10:35)	34h 55m	
+12651	Sampark Kranti			Tambaram Jn (08:00)		H Nizamuddin (18:00)	34h 0m	
+12641	Tirukkural Express		Tambaram Jn (08:00)		H Nizamuddin (18:00)	34h 0m
+12687	Dehradun Express		Chennai Central (09:45)		H Nizamuddin (20:40)	34h 55m

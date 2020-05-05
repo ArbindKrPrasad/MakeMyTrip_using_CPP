@@ -1,0 +1,7 @@
+6	 MUMBAI CHENNAI						Departure Stn (Time)		Arrival Stn (Time)	TripTime  1225
+11017	Lokmanyatilak_T Karaikal_Exp				Lokmanyatilak T	 (12:05)	Tambaram Jn (11:13)	23h 8m
+12163	Chennai Express						Dadar Jn (20:30)		Chennai Egmore (19:45)	23h 15m
+11041	Mumbai_Cst Chennai_Express				Mumbai Cst (14:00)		Chennai Central (16:45)	26h 45m
+11027	Chennai Mail						Mumbai Cst (23:45)		Chennai Central (04:15)	28h 30m
+01031	C_Shahumharaj Hyb_Decan_Sp			Lokmanyatilak T	 (12:05)	Tambaram Jn (11:13)	23h 8m
+06801	Tiruchy Express						Lokmanyatilak T	 (12:25)	Chennai Central (12:30)	24h 5m

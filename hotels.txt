@@ -1,0 +1,9 @@
+Delhi         1        Radisson       Blu            Hotel           Paschim            Vihar             6605
+              2        Le             Meridian       Hotel           New                Delhi             12672
+              3        Crown          Plaza          Hotel           New                Delhi             6824
+	      4        JW             Marriott       Hotel           New                Delhi             13312
+
+Mumbai        1        The            Orchid         Hotel           VileParle          Mumbai            10368
+              2        The            Ginger         Hotel           AndheriEast        Mumbai            8076
+              3        The            Radisson       Hotel           Mumbai             Goregaon          7217
+              4        The            Hyatt          Regency         Navi               Mumbai            11835

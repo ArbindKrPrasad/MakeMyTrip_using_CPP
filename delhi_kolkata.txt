@@ -1,0 +1,16 @@
+15	 	DELHI  KOLKATA						Departure Stn (Time)		Arrival Stn (Time)		TripTime  1439
+02260		Sealdah Premium						New Delhi (19:45)		Sealdah Jn (12:30)		16h 45m
+12250		New_Delhi Howrah_Jn_Yuva				New Delhi (19:45)		Howrah Junction (12:35)		16h 50m
+12302		Kolkata Rajdhani					New Delhi (17:00)		Howrah Junction (09:55)		16h 55m
+12314		Sealdah Rjdhani						New Delhi (16:30)		Sealdah Jn (10:15)		17h 45m
+12306		Kolkata Rajdhani					New Delhi (17:00)		Howrah Junction (12:35)		19h 35m
+03114		New_Delhi Sealdah_Special				New Delhi (23:45)		Sealdah Jn (22:45)		23h 0m
+12324		New_Delhi Howrah_Jn_Express				New Delhi (07:00)		Howrah Junction (06:00)		23h 0m
+12382		Poorva Express						New Delhi (16:20)		Howrah Junction (16:55)		24h 35m
+12304		Poorva Express						New Delhi (16:20)		Howrah Junction (16:55)		24h 35m
+12260		Sealdah_Duronto Express					New Delhi (19:45)		Sealdah Jn (12:30)		16h 45m
+12274		Howrah_Junction Duronto_Exp				New Delhi (13:00)		Howrah Junction (06:00)		17h 0m
+03066		Patna_Junction Howrah_Jn_Sp				New Delhi (12:20)		Howrah Junction (11:05)		22h 45m
+03002		Ajmer_Junction Howrah_Jn_Sp				New Delhi (23:45)		Sealdah Jn (23:45)		24h 0m
+12312		Kalka Mail						Adrsh_Ngr Delhi (05:40)		Howrah Junction (07:55)		26h 15m
+13008		U_A Toofan_Express					New Delhi (07:00)		Howrah Junction (19:20)		36h 20m

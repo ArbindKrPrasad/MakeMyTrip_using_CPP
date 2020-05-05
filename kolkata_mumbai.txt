@@ -1,0 +1,12 @@
+11	 KOLKATA	MUMBAI						Departure Stn (Time)	Arrival Stn (Time)	TripTime 1952
+12102	Jnaneswari Super_delux					Howrah Junction (22:55)	Lokmanyatilak T	 (05:45)	30h 50m
+12860	Gitanjali Express					Howrah Junction (13:50)	Mumbai Cst (21:20)		31h 30m
+12870	Howrah_Jn Mumbai_Cst_Exp				Howrah Junction (14:35)	Mumbai Cst (23:20)		32h 45m
+12810	Howrah_Jn Mumbai_Mail					Howrah Junction (20:15)	Mumbai Cst (05:25)		33h 10m
+12152	Samarsata Express					Howrah Junction (21:15)	Lokmanyatilak T	 (07:30)	34h 15m
+12321	Howrah_Jn Mumbai_Mail					Howrah Junction (22:00)	Mumbai Cst (11:25)		37h 25m
+18030	Shalimar Lokmanyatilak_Exp				Shalimar Jn (15:00)	Lokmanyatilak T	 (04:50)	37h 50m
+03061	Howrah_Jn Lokmanyatilak_Sp				Howrah Junction (08:15)	Lokmanyatilak T	 (23:50)	39h 35m
+12262	Howrah_Jn Mumbai_Cst_Duront				Howrah Junction (08:20)	Mumbai Cst (10:30)		29h 10m
+15612	Karmabhoomi Express					Howrah Junction (14:35)	Lokmanyatilak T	 (23:15)	32h 40m
+05612	Kamakhya Lokmanyatilak_Sp				Howrah Junction (14:35)	Lokmanyatilak T	 (23:15)	32h 40m

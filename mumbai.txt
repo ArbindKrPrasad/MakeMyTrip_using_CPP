@@ -1,0 +1,4 @@
+Mumbai        1        The            Orchid         Grand           Hotel           VileParle          Mumbai            10368
+Mumbai        2        The            Kohinoor       Continental     Hotel           AndheriEast        Mumbai            8076
+Mumbai        3        The            Taj            Mahal           Palace          Colaba             Mumbai            27520
+Mumbai        4        The            Hyatt          Regency         Hotel           Navi               Mumbai            11835

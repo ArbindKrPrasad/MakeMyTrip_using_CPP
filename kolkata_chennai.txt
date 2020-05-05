@@ -1,0 +1,13 @@
+12 KOLKATA CHENNAI						Departure Stn (Time)	Arrival Stn (Time)	TripTime 1662
+02841	Howrah_Jn Chennai_Cen_Pre				Howrah Junction (13:15)	Chennai Central (14:25)	25h 10m
+12841	Coromandal Express					Howrah Junction (14:50)	Chennai Central (17:15)	26h 25m
+12839	Howrah_Jn Chennai_C_Mail				Howrah Junction (23:45)	Chennai Central (03:50)	28h 5m
+12665	Kannyakumari Express					Howrah Junction (16:10)	Tambaram Jn (20:43)	28h 33m
+12663	Howrah_Jn T_Express					Howrah Junction (16:10)	Tambaram Jn (20:44)	28h 34m
+22825	Chennai Central_SF_Exp					Shalimar Jn (12:20)	Chennai Central (17:00)	28h 40m
+12510	Guwahati_Bangalore_Cy Jn_Exp				Howrah Junction (01:05)	Chennai Central (04:15)	3h 10m
+12508	Guwahati_Tvc Express					Howrah Junction (01:05)	Chennai Central (04:15)	3h 10m
+12516	Guwahati_Tvc Express					Howrah Junction (01:05)	Chennai Central (04:15)	3h 10m
+06030	Bangalore_Cy_Jn Chennai_C_Exp				Shalimar Jn (15:15)	Chennai Central (18:05)	26h 50m
+15902	Dbrg_Bangalore Jn_Express				Howrah Junction (01:05)	Perambur Jn (04:20)	27h 15m
+15228	Mzf_Jn Yesvantpur_Jn_Exp				Howrah Junction (23:15)	Chennai Central (03:55)	28h 40m

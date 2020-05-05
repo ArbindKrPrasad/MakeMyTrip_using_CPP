@@ -1,0 +1,6 @@
+5       CHENNAI  MUMBAI						Departure Stn (Time)		Arrival Stn (Time)		TripTime 1225
+06001	Madgaon Express						Chennai Central (21:00)		Mumbai Cst (02:53)		5h 53m
+12164	Chennai Express						Chennai Egmore (06:50)		Dadar Jn (06:00)		23h 10m
+11042	Mumbai Express						Chennai Central (11:55)		Mumbai Cst (13:45)		25h 50m
+11028	Mumbai Mail						Chennai Central (22:50)		Mumbai Cst (03:45)		28h 55m
+11018	K_Lokmanyatilak T_Exp					Tambaram Jn (21:10)		Lokmanyatilak T	 (23:45)	26h 35m

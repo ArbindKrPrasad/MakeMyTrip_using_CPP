@@ -1,0 +1,4 @@
+Delhi         1        The            Lalit          Residency      Hotel           New                Delhi             6605
+Delhi         2        The            Le             Meridian       Hotel           New                Delhi             12672
+Delhi         3        The            Crown          Plaza          Hotel           New                Delhi             6824
+Delhi         4        The            JW             Marriott       Hotel           New                Delhi             13312

@@ -1,0 +1,16 @@
+15	 	DELHI MUMBAI						Departure Stn (Time)		Arrival Stn (Time)	TripTime 1384
+12909		H_Nizamuddin Garib_Rath					Bandra Terminus (16:50)		H Nizamuddin (09:40)	16h 50m
+12953		Aug_Kr Raj_Express					Mumbai Central (17:40)		H Nizamuddin (10:55)	17h 15m
+12471		Swaraj Express						Bandra Terminus (07:55)		H Nizamuddin (04:08)	20h 13m
+09021		Jammu_Tawi Special					Bandra Terminus (05:10)		Tuglakabad Jn (01:25)	20h 15m
+12907		Bandra_Terminus Sampark_Exp				Bandra Terminus (16:50)		H Nizamuddin (13:45)	20h 55m
+12903		Goldentemple Malhour					Mumbai Central (21:30)		H Nizamuddin (18:35)	21h 5m
+22917		Haridwar Express					Bandra Terminus (11:50)		H Nizamuddin (10:35)	22h 45m
+12216		Delhi_S Rohilla_Garibrath				Bandra Terminus (12:55)		Delhi S_Rohilla (12:10)	23h 15m
+04511		Chandigarh Superfast_Sp					Bandra Terminus (12:05)		Delhi Cantt (11:45)	23h 40m
+22451		Chandigarh Superfast					Bandra Terminus (12:05)		Delhi Cantt (11:47)	23h 42m
+04091		H_Nizamuddin Ac_Special					Mumbai Central (00:05)		H Nizamuddin (23:50)	23h 45m
+12925		Paschim Express						Bandra Terminus (11:35)		Subzi Mandi (11:21)	23h 46m
+12137		Punjab Mail						Mumbai Cst (19:40)		Shakurbasti Jn (22:20)	26h 40m
+19019		Dehradun Express					Bandra Terminus (00:05)		H Nizamuddin (05:25)	29h 20m
+11057		Amritsar Express					Lokmanyatilak T (23:45)		Narela Jn  (05:18)	29h 33m

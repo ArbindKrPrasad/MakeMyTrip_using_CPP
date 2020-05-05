@@ -1,0 +1,4 @@
+Chennai        1        The          Ambassador        Pallava        Hotel        Egmore       Chennai        3197
+Chennai        2        The          Leela             Palace         Chennai      MRCNagar     Chennai        10815
+Chennai        3        The          Lemon             Tree           Hotel        Guindy       Chennai        5502
+Chennai        4        The          Pearl             International  Hotel        Peryamet     Chennai        3896    

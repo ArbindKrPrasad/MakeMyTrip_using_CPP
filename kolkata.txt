@@ -1,0 +1,5 @@
+Kolkata       1            The         Peerless            In           Hotel             Taltala            Kolkata            3929
+Kolkata       2            The         Oberoi              Grand        Hotel             Taltala            Kolkata            10880
+Kolkata       3            The         Casa                Fortuna      Hotel             Bhowanipore        Kolkata            3994
+Kolkata       4            The         Westin              Kolkata      Rajarhat          Newtown            Kolkata            7488
+ 
